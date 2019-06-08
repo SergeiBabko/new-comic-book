@@ -11,6 +11,7 @@ This skin  will be works with all game handhelds with RetroFW on board.
 </p>
 
 # How to install (update)
+- download <i><b>NewComicBook.tar</i></b> from <a href="https://github.com/SergeiBabko/new-comic-book/releases" target="_blank">release page</a>
 - remove previous versions from the <i><b>apps/gmenu2x/skins/</b></i> folder
 - <i><b>'NewComicBook'</b></i> folder from <i><b>NewComicBook.tar</i></b> archive must be copied to <i><b>apps/gmenu2x/skins/</b></i> folder
 - go to the <i><b>'Skin'</b></i> settings and use left/right to find and select <i><b>'NewComicBook'</b></i> skin 
