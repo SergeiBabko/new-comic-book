@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="Logo.png" width="350" title="hover text">
+  <img src="Logo.png" width="300" title="New Comic Book by Segich">
 </p>
 
 # New Comic Book Theme
 Maded by Segich (Sergei Babko, Belarus) with the support of <a href="https://boards.dingoonity.org/profile/simpleasy/" target="_blank">SimplEasy</a> and <a href="https://boards.dingoonity.org/profile/jutley/" target="_blank">Jutleys</a> for RetroFW for LDK game system.
 This skin  will be works with all game handhelds with RetroFW on board.
+
+<p align="center">
+  <img src="LDK_NewComicBook.gif" width="267" height="300" title="New Comic Book by Segich">
+</p>
 
 # How to install (update)
 - remove previous versions from the <i><b>apps/gmenu2x/skins/</b></i> folder
