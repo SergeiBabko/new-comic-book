@@ -3,7 +3,7 @@
 </p>
 
 # New Comic Book Theme
-Maded by Segich (Sergei Babko, Belarus) with the support of <a href="https://boards.dingoonity.org/profile/simpleasy/" target="_blank">SimplEasy</a> and <a href="https://boards.dingoonity.org/profile/jutley/" target="_blank">Jutleys</a> for RetroFW for LDK game system.
+Made by Segich (Sergei Babko, Belarus) with the support of <a href="https://boards.dingoonity.org/profile/simpleasy/" target="_blank">SimplEasy</a> and <a href="https://boards.dingoonity.org/profile/jutley/" target="_blank">Jutleys</a> for RetroFW for LDK game system.
 This skin  will be works with all game handhelds with RetroFW on board.
 
 <p align="center">
